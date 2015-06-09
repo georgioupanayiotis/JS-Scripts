@@ -1,0 +1,17 @@
+<textarea name='' id='inputTextArea' >lorem ipsum</textarea>
+<dt id='stat'><label>&#40;<span>500</span> characters left&#41;</label></dt>
+
+function countChar(val) {
+    var len = val.value.length;
+
+    if (len >= 500) {
+        val.value = val.value.substring(0, 500);
+        $('#stat span').text(0);
+    } else {
+        $('#stat span').text(500 - len);
+    }
+}
+countChar($('#inputTextArea').get(0));
+$('#inputTextArea').keyup(function() {
+    countChar(this);
+});
