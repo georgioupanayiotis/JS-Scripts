@@ -1,0 +1,41 @@
+<script>
+function adBlockFunction()
+{
+// Google Analytics Tracking 
+setTimeout(function() { 
+ga('send', 'event', 'Blocker', 'click','Blocker');
+},2000);
+// Google Analytics End
+
+document.getElementById('ab-message').style.display = 'block';
+}
+</script>
+
+
+//HTML Code
+<div id="container">
+
+<div id="contentDivName">
+Article Content Part // This will replace with ad blocker message
+</div>
+
+<div id="sidebar">
+Google Adsense Code
+</div>
+
+</div>
+
+<style>
+#ad-message{
+text-align: center;
+background-color: #E23C3C; color: #ffffff;
+font-weight: bold; font-family: Arial;
+border-bottom: solid 1px #333333;
+}
+</style>
+
+//HTML Code
+<body>
+<div id='ad-message' style='display: none;'>
+Please disable your ad blocker for yourwebitename.com
+</div>
