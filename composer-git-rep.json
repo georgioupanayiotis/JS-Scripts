@@ -1,0 +1,18 @@
+  "repositories": [
+    {
+      "type":"package",
+      "package": {
+        "name": "package-name",
+        "version":"master",
+        "type": "wordpress-plugin",
+        "source": {
+          "type": "git",
+          "url": "https://github.com/package-name.git",
+          "reference":"master"
+        }
+      }
+    }
+  ],
+  "require": {
+    "package-name": "dev-master"
+  }
