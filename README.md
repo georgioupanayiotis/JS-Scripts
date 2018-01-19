@@ -8,4 +8,5 @@ Useful Javascript snippets
 5. [html-example-ad-blocker](https://github.com/georgioupanayiotis/JS-Scripts/blob/master/html-example-ad-blocker.html)
 6. [jquery3forloop](https://github.com/georgioupanayiotis/JS-Scripts/blob/master/jquery3forloop.js)
 7. [search-filter.js](https://github.com/georgioupanayiotis/JS-Scripts/blob/master/search-filter.js)
+8. [shuffle-array-of-numbers.js](https://github.com/georgioupanayiotis/JS-Scripts/blob/master/shuffle-array-of-numbers.js)
 
