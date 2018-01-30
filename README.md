@@ -10,5 +10,6 @@ Useful Javascript snippets
 7. [search-filter.js](https://github.com/georgioupanayiotis/JS-Scripts/blob/master/search-filter.js)
 8. [shuffle-array-of-numbers.js](https://github.com/georgioupanayiotis/JS-Scripts/blob/master/shuffle-array-of-numbers.js)
 9. [toggle-password-visibility.js](https://github.com/georgioupanayiotis/JS-Scripts/blob/master/toggle-password-visibility.html)
+10. [composer-git-rep.json](https://github.com/georgioupanayiotis/JS-Scripts/blob/master/composer-git-rep.json)
 
 
