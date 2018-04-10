@@ -12,5 +12,5 @@ Useful Javascript snippets
 9. [toggle-password-visibility.js](https://github.com/georgioupanayiotis/JS-Scripts/blob/master/toggle-password-visibility.html)
 10. [composer-git-rep.json](https://github.com/georgioupanayiotis/JS-Scripts/blob/master/composer-git-rep.json)
 11. [URLify-string.js](https://github.com/georgioupanayiotis/JS-Scripts/blob/master/URLify-string.js)
-
+12. [current-day-in-the-year.js](https://github.com/georgioupanayiotis/JS-Scripts/blob/master/current-day-in-the-year.js)
 
