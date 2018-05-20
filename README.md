@@ -13,4 +13,5 @@ Useful Javascript snippets
 10. [composer-git-rep.json](https://github.com/georgioupanayiotis/JS-Scripts/blob/master/composer-git-rep.json)
 11. [URLify-string.js](https://github.com/georgioupanayiotis/JS-Scripts/blob/master/URLify-string.js)
 12. [current-day-in-the-year.js](https://github.com/georgioupanayiotis/JS-Scripts/blob/master/current-day-in-the-year.js)
+13. [count-day-in-year.html](https://github.com/georgioupanayiotis/JS-Scripts/blob/master/count-day-in-year.html)
 
