@@ -14,4 +14,4 @@ Useful Javascript snippets
 11. [URLify-string.js](https://github.com/georgioupanayiotis/JS-Scripts/blob/master/URLify-string.js)
 12. [current-day-in-the-year.js](https://github.com/georgioupanayiotis/JS-Scripts/blob/master/current-day-in-the-year.js)
 13. [count-day-in-year.html](https://github.com/georgioupanayiotis/JS-Scripts/blob/master/count-day-in-year.html)
-
+14. [add-new-element-es6.js](https://github.com/georgioupanayiotis/JS-Scripts/blob/master/add-new-element-es6.js)
