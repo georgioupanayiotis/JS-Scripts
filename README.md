@@ -17,4 +17,7 @@ Useful Javascript snippets
 14. [add-new-element-es6.js](https://github.com/georgioupanayiotis/JS-Scripts/blob/master/add-new-element-es6.js)
 15. [Materialize-Selects-Example](https://github.com/georgioupanayiotis/JS-Scripts/blob/master/Materialize-Selects-Example.html)
 16. [Drag-drop-files](https://github.com/georgioupanayiotis/JS-Scripts/blob/master/drag-drop-files.html)
+17. [Filter-map-data](https://github.com/georgioupanayiotis/JS-Scripts/blob/master/filter-map-data.js)
+
+
 
