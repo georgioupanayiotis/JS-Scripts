@@ -18,6 +18,7 @@ Useful Javascript snippets
 15. [Materialize-Selects-Example](https://github.com/georgioupanayiotis/JS-Scripts/blob/master/Materialize-Selects-Example.html)
 16. [Drag-drop-files](https://github.com/georgioupanayiotis/JS-Scripts/blob/master/drag-drop-files.html)
 17. [Filter-map-data](https://github.com/georgioupanayiotis/JS-Scripts/blob/master/filter-map-data.js)
-
+18. [Get date beginning end week date with moment.js](https://github.com/georgioupanayiotis/JS-Scripts/blob/master/get-date-beginning-end-week-for-date-moment.js
+)
 
 
